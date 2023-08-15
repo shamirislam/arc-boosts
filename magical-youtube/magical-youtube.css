@@ -1,6 +1,7 @@
 @font-face {
-  font-family: "HarryP";
-  src: url("https://file.notion.so/f/s/f602212d-4bd5-4a2b-9611-06fd9bb672f7/HARRYP__.ttf?id=d23f87c1-9b90-4523-8054-df2b1ecca9f8&table=block&spaceId=b8f8163f-93b9-4c7f-b0f6-e933cb84f861&expirationTimestamp=1687546960497&signature=G18B9ly4mh5Vy1mco3SZ9aqFfuGhnvzA7EHbXx7RAjU&downloadName=HARRYP__.TTF.ttf");
+  font-family: "YourFont";
+  src: url("https://cdn.jsdelivr.net/gh/yourusername/yourrepository/fontfile.ttf")
+    format("truetype");
 }
 
 #country-code {
@@ -48,7 +49,7 @@ ytd-rich-grid-renderer {
 
 ytd-thumbnail {
   transform: scale(0.9);
-  opacity: 0.8;
+  opacity: 0.9;
   border: 0 solid #a80000;
   box-shadow: 0 0 20px #a80000, 0 0 20px #e4f132c0;
   border-radius: 15px;
